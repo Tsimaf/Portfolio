@@ -1,6 +1,6 @@
-# Анализ пользовательского поведения в мобильном приложении
+﻿# Анализ пользовательского поведения в мобильном приложении
 
-[ipynb](https://github.com/Tsimaf/Portfolio/blob/main/AB_test/8_abtest2_lukashevich.ipynb)
+[ipynb](https://github.com/Tsimaf/Portfolio/blob/main/03_ab_test/8_abtest2_lukashevich.ipynb)
 
 ## Задачи проекта
 На основе данных использования мобильного приложения для продажи продуктов питания проанализировать воронку продаж, а также оценить результаты A/A/B-тестирования.

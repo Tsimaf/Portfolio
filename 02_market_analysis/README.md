@@ -1,5 +1,5 @@
-# Исследования рынка общепита в Москве для принятия решения об открытии нового заведения
-[ipynb](https://github.com/Tsimaf/Portfolio/blob/main/Market_analysis/9_market_analysis_lukashevich_.ipynb)
+﻿# Исследования рынка общепита в Москве для принятия решения об открытии нового заведения
+[ipynb](https://github.com/Tsimaf/Portfolio/blob/main/02_market_analysis/9_market_analysis_lukashevich_.ipynb)
 
 ## Задачи проекта
 Исследования рынка общепита в Москве для принятия решения об открытии новой кофейни.

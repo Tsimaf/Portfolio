@@ -1,6 +1,6 @@
-# Анализ убытков приложения ProcrastinatePRO+
+﻿# Анализ убытков приложения ProcrastinatePRO+
 
-[ipynb](https://github.com/Tsimaf/Portfolio/blob/main/Cohort_analysis/6_cohort_analysis_lukashevich.ipynb)
+[ipynb](https://github.com/Tsimaf/Portfolio/blob/main/04_cohort_analysis/6_cohort_analysis_lukashevich.ipynb)
 
 ## Задачи проекта
 Несмотря на огромные вложения в рекламу, последние несколько месяцев компания терпит убытки. Моя задача — разобраться в причинах и помочь компании выйти в плюс.
