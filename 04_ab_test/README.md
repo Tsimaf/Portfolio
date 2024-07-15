@@ -1,14 +1,15 @@
 ﻿# Анализ пользовательского поведения в мобильном приложении
 
 Для использования всех возможностей Jupiter Notebook проект рекомендуется открывать в nbviewer:
+[nbviewer](https://nbviewer.org/github/tsimaf/portfolio/blob/main/04_ab_test/8_abtest2_lukashevich.ipynb)
 
-[nbviewer](https://nbviewer.org/github/tsimaf/portfolio/blob/main/03_ab_test/8_abtest2_lukashevich.ipynb)
-[ipynb](https://github.com/tsimaf/portfolio/blob/main/03_ab_test/8_abtest2_lukashevich.ipynb)
+Открыть ipunb внутри GitHub:
+[ipynb](https://github.com/tsimaf/portfolio/blob/main/04_ab_test/8_abtest2_lukashevich.ipynb)
 
 ## Задачи проекта
 На основе данных использования мобильного приложения для продажи продуктов питания проанализировать воронку продаж, а также оценить результаты A/A/B-тестирования.
 
-## Сфера деятельности
+## Сфера и область деятельности
 - Стартапы
 - Мобильные приложения
 - Продуктовый аналитик

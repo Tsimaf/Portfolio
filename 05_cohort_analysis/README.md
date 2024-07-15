@@ -1,14 +1,15 @@
 ﻿# Анализ убытков приложения ProcrastinatePRO+
 
 Для использования всех возможностей Jupiter Notebook проект рекомендуется открывать в nbviewer:
+[nbviewer](https://nbviewer.org/github/tsimaf/portfolio/blob/main/05_cohort_analysis/6_cohort_analysis_lukashevich.ipynb)
 
-[nbviewer](https://nbviewer.org/github/tsimaf/portfolio/blob/main/04_cohort_analysis/6_cohort_analysis_lukashevich.ipynb)
-[ipynb](https://github.com/tsimaf/portfolio/blob/main/04_cohort_analysis/6_cohort_analysis_lukashevich.ipynb)
+Открыть ipunb внутри GitHub:
+[ipynb](https://github.com/tsimaf/portfolio/blob/main/05_cohort_analysis/6_cohort_analysis_lukashevich.ipynb)
 
 ## Задачи проекта
 Несмотря на огромные вложения в рекламу, последние несколько месяцев компания терпит убытки. Моя задача — разобраться в причинах и помочь компании выйти в плюс. Провести анализ данных приложения, рассчитать метрики, провести когортный анализ.
 
-## Сфера деятельности
+## Сфера и область деятельности
 - Мобильные приложения
 - Стартапы
 - Интернет-сервисы

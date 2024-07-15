@@ -1,8 +1,9 @@
 ﻿# Сегментирование и анализ сегментов пользователей интернет-магазина
 
 Для использования всех возможностей Jupiter Notebook проект рекомендуется открывать в nbviewer:
-
 [nbviewer](https://nbviewer.org/github/tsimaf/portfolio/blob/main/01_customer_segmentation/11_ecomm_lukashevich.ipynb)
+
+Открыть ipunb внутри GitHub:
 [ipynb](https://github.com/tsimaf/portfolio/blob/main/01_customer_segmentation/11_ecomm_lukashevich.ipynb)
 
 ## Задачи проекта

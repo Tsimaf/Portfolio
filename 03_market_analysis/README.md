@@ -1,14 +1,15 @@
 ﻿# Исследования рынка общепита в Москве для принятия решения об открытии нового заведения
 
 Для использования всех возможностей Jupiter Notebook проект рекомендуется открывать в nbviewer:
+[nbviewer](https://nbviewer.org/github/tsimaf/portfolio/blob/main/03_market_analysis/9_market_analysis_lukashevich_.ipynb)
 
-[nbviewer](https://nbviewer.org/github/tsimaf/portfolio/blob/main/02_market_analysis/9_market_analysis_lukashevich_.ipynb)
-[ipynb](https://github.com/tsimaf/portfolio/blob/main/02_market_analysis/9_market_analysis_lukashevich_.ipynb)
+Открыть ipunb внутри GitHub:
+[ipynb](https://github.com/tsimaf/portfolio/blob/main/03_market_analysis/9_market_analysis_lukashevich_.ipynb)
 
 ## Задачи проекта
 Исследование рынка общественного питания на основе открытых данных, поиск особенностей, выбор места для открытия новой кофейни, подготовка презентации, работа с библиотекой Folium, интерактивная визуализация.
 
-## Сфера деятельности
+## Сфера и область деятельности
 - Стартапы
 - Бизнес
 - Маркетинг-аналитик
