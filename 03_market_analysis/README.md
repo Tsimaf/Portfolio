@@ -1,9 +1,9 @@
 ﻿# Исследования рынка общепита в Москве для принятия решения об открытии нового заведения
 
-Для использования всех возможностей Jupiter Notebook проект рекомендуется открывать в nbviewer:
+Для использования всех возможностей Jupyter Notebook проект рекомендуется открывать в nbviewer:
 [nbviewer](https://nbviewer.org/github/tsimaf/portfolio/blob/main/03_market_analysis/9_market_analysis_lukashevich_.ipynb)
 
-Открыть ipunb внутри GitHub:
+Открыть ipynb внутри GitHub:
 [ipynb](https://github.com/tsimaf/portfolio/blob/main/03_market_analysis/9_market_analysis_lukashevich_.ipynb)
 
 ## Задачи проекта

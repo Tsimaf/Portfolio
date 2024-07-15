@@ -1,9 +1,9 @@
 ﻿# Анализ пользовательского поведения в мобильном приложении
 
-Для использования всех возможностей Jupiter Notebook проект рекомендуется открывать в nbviewer:
+Для использования всех возможностей Jupyter Notebook проект рекомендуется открывать в nbviewer:
 [nbviewer](https://nbviewer.org/github/tsimaf/portfolio/blob/main/04_ab_test/8_abtest2_lukashevich.ipynb)
 
-Открыть ipunb внутри GitHub:
+Открыть ipynb внутри GitHub:
 [ipynb](https://github.com/tsimaf/portfolio/blob/main/04_ab_test/8_abtest2_lukashevich.ipynb)
 
 ## Задачи проекта

@@ -1,9 +1,9 @@
 ﻿# Анализ убытков приложения ProcrastinatePRO+
 
-Для использования всех возможностей Jupiter Notebook проект рекомендуется открывать в nbviewer:
+Для использования всех возможностей Jupyter Notebook проект рекомендуется открывать в nbviewer:
 [nbviewer](https://nbviewer.org/github/tsimaf/portfolio/blob/main/05_cohort_analysis/6_cohort_analysis_lukashevich.ipynb)
 
-Открыть ipunb внутри GitHub:
+Открыть ipynb внутри GitHub:
 [ipynb](https://github.com/tsimaf/portfolio/blob/main/05_cohort_analysis/6_cohort_analysis_lukashevich.ipynb)
 
 ## Задачи проекта
